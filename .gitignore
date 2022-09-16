@@ -10,7 +10,6 @@
 /vendor/
 ###< symfony/framework-bundle ###
 /.idea/
-/bin/
 /composer.json
 /composer.lock
 /symfony.lock
